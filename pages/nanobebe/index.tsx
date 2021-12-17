@@ -24,7 +24,7 @@ function Home() {
           sssssss
         </h1> */}
         <div style={{ marginTop: 50 }}>
-          <Image src="/boba.png" height={100} width={150} />
+          <Image src="/Boba.png" height={100} width={150} />
         </div>
         <div>
           <Image src="/4.svg" height={200} width={200} />
