@@ -2,11 +2,12 @@ import Image from "next/image";
 import React, { useEffect } from "react";
 
 function Home() {
-  // useEffect(() => {
-  //   setTimeout(() => {
-  //     window.location.href = "https://www.facebook.com";
-  //   }, 2000);
-  // }, []);
+  useEffect(() => {
+    setTimeout(() => {
+      window.location.href =
+        "https://www.shareasale.com/r.cfm?b=1837815&u=2886642&m=114593";
+    }, 2000);
+  }, []);
 
   return (
     <div>
