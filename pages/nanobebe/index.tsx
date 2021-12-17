@@ -2,11 +2,11 @@ import Image from "next/image";
 import React, { useEffect } from "react";
 
 function Home() {
-  useEffect(() => {
-    setTimeout(() => {
-      window.location.href = "https://www.facebook.com";
-    }, 2000);
-  }, []);
+  // useEffect(() => {
+  //   setTimeout(() => {
+  //     window.location.href = "https://www.facebook.com";
+  //   }, 2000);
+  // }, []);
 
   return (
     <div>
