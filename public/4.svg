@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="150px" height="150px" viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
+
+<g opacity="0.95">
+	<circle fill="#EF4136" cx="56.752" cy="57.16" r="12"/>
+	<circle fill="#2B3990" cx="93.703" cy="57.16" r="12"/>
+	<circle fill="#92278F" cx="93.703" cy="93.764" r="12"/>
+	<circle fill="#1C75BC" cx="56.926" cy="93.764" r="12"/>
+	<animateTransform attributeName="transform"
+                    attributeType="XML"
+                    type="rotate"
+                    from="0 75 75"
+                    to="360 75 75"
+                    dur="2s"
+                    repeatCount="indefinite"/>
+
+</g>
+</svg>

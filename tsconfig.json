@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "components/paymentStripe/PaymentForm.js",
+    "components/paymentStripe/paypal.js",
+    "Components/SpecificCar/Mileage.tsx",
+    "pages/marutisuzuki/alto/index.tsx",
+    "pages/_app.tsx",
+    "next.config.tsx"
+  ],
+  "exclude": ["node_modules"]
+}

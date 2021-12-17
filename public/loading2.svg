@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="150px" height="150px" viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
+
+
+<path fill="#1C75BC" d="M84.873,38.823c0-5.453-4.42-9.873-9.873-9.873s-9.873,4.421-9.873,9.873c0,4.531,3.055,8.339,7.215,9.501
+	v18.727h5.316V48.324C81.818,47.162,84.873,43.353,84.873,38.823z">
+	<animateTransform attributeName="transform"
+                    attributeType="XML"
+                    type="rotate"
+                    from="0 75 75"
+                    to="360 75 75"
+                    dur="1.5s"
+                    repeatCount="indefinite"/>
+	</path>
+<path fill="#1C75BC" d="M65.127,112.304c0,5.453,4.42,9.873,9.873,9.873s9.873-4.421,9.873-9.873c0-4.531-3.055-8.339-7.215-9.501
+	V84.076h-5.316v18.727C68.182,103.965,65.127,107.773,65.127,112.304z">
+	<animateTransform attributeName="transform"
+                    attributeType="XML"
+                    type="rotate"
+                    from="0 75 75"
+                    to="360 75 75"
+                    dur="1s"
+                    repeatCount="indefinite"/>
+	</path>
+	<path fill="#1C75BC" d="M65.127,112.304c0,5.453,4.42,9.873,9.873,9.873s9.873-4.421,9.873-9.873c0-4.531-3.055-8.339-7.215-9.501
+	V84.076h-5.316v18.727C68.182,103.965,65.127,107.773,65.127,112.304z">
+	<animateTransform attributeName="transform"
+                    attributeType="XML"
+                    type="rotate"
+                    from="0 75 75"
+                    to="360 75 75"
+                    dur="2s"
+                    repeatCount="indefinite"/>
+	</path>
+
+
+<path fill="#1C75BC" d="M75,59.051c-8.809,0-15.949,7.141-15.949,15.949S66.191,90.949,75,90.949S90.949,83.809,90.949,75
+	S83.809,59.051,75,59.051z M75,82.975c-4.404,0-7.975-3.57-7.975-7.975s3.57-7.975,7.975-7.975s7.975,3.57,7.975,7.975
+	S79.404,82.975,75,82.975z"/>
+</svg>
