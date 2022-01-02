@@ -1,5 +1,6 @@
 import Image from "next/image";
 import React, { useEffect } from "react";
+import styles from "../../styles/Home.module.css";
 
 function Home() {
   useEffect(() => {
@@ -24,11 +25,21 @@ function Home() {
         >
           sssssss
         </h1> */}
-        <div style={{ marginTop: 50 }}>
-          <Image src="/childuniverse.png" height={200} width={200} />
+        <div
+          // style={{ marginTop: 50 }}
+          className={styles.nnew}
+        >
+          {/* <img src="https://www.curateddeals.com/bincdn2/files/stores/ChildUniverse-logo.png" /> */}
+          <img width={200} height={200} src="childuniverse.png" />
+          {/* <Image
+            src="https://www.curateddeals.com/bincdn2/files/stores/ChildUniverse-logo.png"
+            height={200}
+            width={200}
+          /> */}
         </div>
         <div>
-          <Image src="/4.svg" height={200} width={200} />
+          <img src="4.svg" />
+          {/* <Image src="/4.svg" height={200} width={200} /> */}
         </div>
 
         <p

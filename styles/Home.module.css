@@ -114,3 +114,17 @@
     flex-direction: column;
   }
 }
+
+.nnew {
+  margin-top: 50px;
+  /* width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center; */
+}
+
+@media (max-width: 415px) {
+  .nnew {
+    margin-left: -20px;
+  }
+}

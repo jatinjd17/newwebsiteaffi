@@ -1,5 +1,6 @@
 import Image from "next/image";
 import React, { useEffect } from "react";
+import styles from "../../styles/Home.module.css";
 
 function Home() {
   useEffect(() => {
@@ -24,11 +25,16 @@ function Home() {
         >
           sssssss
         </h1> */}
-        <div style={{ marginTop: 50 }}>
-          <Image src="/bamboolittle.png" height={250} width={250} />
+        <div
+          // style={{ marginTop: 50 }}
+          className={styles.nnew}
+        >
+          {/* <Image src="/bamboolittle.png" height={250} width={250} /> */}
+          <img src="bamboolittle.png" height={250} width={250} />
         </div>
         <div>
-          <Image src="/4.svg" height={200} width={200} />
+          {/* <Image src="/4.svg" height={200} width={200} /> */}
+          <img src="4.svg" />
         </div>
 
         <p
